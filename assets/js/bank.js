@@ -1,4 +1,4 @@
-let Account = {
+let Account = 
     fullName:"Y",
     phoneNumber:"123",
     accountNum:"123",
