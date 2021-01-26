@@ -2,7 +2,7 @@ let Account = {
     fullName:"Y",
     phoneNumber:"123",
     accountNum:"123",
-    currentBalance:0
+    currentBalance:60
 }
 let Account = {
     fullName:"M",
@@ -120,4 +120,5 @@ let BankSystem = {
 }
 
 
-)()
+)
+() 
